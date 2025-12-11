@@ -1,5 +1,10 @@
 # Voice-Pro: The best gradio web-ui for transcription, translation and text-to-speech 🔊
 
+<div align="center">
+  <img src="docs/images/logo-concept-a.png" alt="Logo Concept A" width="400">
+  <img src="docs/images/logo-concept-b.png" alt="Logo Concept B" width="400">
+</div>
+
 🌍 [한국어](docs/README.kor.md) ∙ [English](docs/README.eng.md) ∙ [中文简体](docs/README.zh.md) ∙ [中文繁體](docs/README.tw.md) ∙ [日本語](docs/README.jpn.md)
 
 [![GitHub License](https://img.shields.io/github/license/abus-aikorea/voice-pro)](LICENSE)
